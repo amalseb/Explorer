@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Explorer</string>
+    <string name="munnar">Munnar is a town in the Western Ghats mountain range in
+        India’s Kerala state. A hill station and former resort for the British Raj elite,
+        it is surrounded by rolling hills dotted with tea plantations established in the
+        late 19th century. Eravikulam National Park, a habitat for the endangered mountain
+        goat Nilgiri tahr, is home to the Lakkam Waterfalls, hiking trails and 2,695m-tall
+        Anamudi Peak.Most of the native flora and fauna of Munnar have disappeared due to
+        severe habitat fragmentation resultant from the creation of the plantations.
+        However, some species continue to survive and thrive in several protected areas
+        nearby, including the new Kurinjimala Sanctuary to the east, the Chinnar Wildlife
+        Sanctuary, Manjampatti Valley and the Amaravati reserve forest of Indira Gandhi Wildlife
+        Sanctuary to the north east, the Eravikulam National Park and Anamudi Shola National Park
+        to the north, the Pampadum Shola National Park to the south and the proposed Palani Hills
+        National Park to the east.</string>
+    <string name="linkmunnar"><a href="https://en.wikipedia.org/wiki/Munnar">More Info</a>
+    </string>
+    <string name="vagamon">Vagamon, also spelt Wagamon, is a hill station located in Meenachil
+        taluk and Kanjirappally taluk of Kottayam district and Peerumade taluk of Idukki district
+        of the state of Kerala, India. Vagamon was discovered by the British who found the place
+        ideal for tea plantations and they were followed by Christian missionaries who built their
+        abode of service at Kurisumala in Vagamon. National Geographic Traveler has listed Vagamon
+        on their directory of the "50 most attractive places to visit in India". Still untouched
+        by commercialisation, the sleepy town is surrounded by valleys, green meadows, pine
+        forests, mists, fogs, tea estates, waterfalls and overall greenery.[citation needed]
+        The landscape is mostly hilly bald with green meadows. Vagamon is also home to a variety
+        of flowers and orchids. Three hills - Thangal, Murugan and Kurisumala hills - are the
+        representation of the chief religions in Kerala, i.e. Hindu, Muslim, and Christian which
+        represent the cultural harmony. Vagamon has amenities for trekking, paragliding,
+        mountaineering and rock climbing.</string>
+    <string name="kochi">Kochi ([koˈtʃːi ] (About this sound listen)), also known as Cochin
+        (/ˈkoʊtʃɪn/ KOH-chin), is a major port city on the south-west coast of India bordering
+        the Laccadive Sea. It is part of the district of Ernakulam in the state of Kerala and
+        is often referred to as Ernakulam. The city has a corporation limit population of
+        612,343,[8] and a metropolitan population of 2.1 million, making it the largest urban
+        agglomeration in Kerala. Kochi city is also part of the Greater Cochin region[9][10]
+        and is classified as a Tier-II city by the Government of India. The civic body that
+        governs the city is the Kochi Municipal Corporation, which was constituted in the
+        year 1967, and the statutory bodies that oversee its development are the Greater
+        Cochin Development Authority[11] (GCDA) and the Goshree Islands Development Authority
+        (GIDA).[</string>
+    <string name="kottakkunnu">Kottakkunnu, Known as Marine Drive of Malappuram is a hill
+        garden. Kottakkunnu park contains an Open Air theater, Lalitha Kala Academy Art gallery,
+        a water theme park, Adventure Park, Kids traffic park, Balloon Park, 16D Cinema. There
+        is Water fountain and Laser show on every weekends and on festivals like Eid, Onam,
+        New year eve etc. At Kottakkunnu one can see traces of the first fort built by the
+        Zamorins. This tourism destination turned historic hill attracts lakhs of people per
+        annum. This scenic table-top location is located at the crest of the Cantonment Hill
+        near the District Collectorate in the heart of Malappuram city and 51 km from Kozhikode,
+        12 km from Kottakkal, 25 km from Karipur Airport, 17 km from Angadipuram railway station
+        and 29 km from Tirur railway station. Visitors are allowed up to 9pm.
+        [clarification needed] KSRTC Bus station located adjacent at Up Hill is the nearest bus
+        station.</string>
+    <string name="alappuzha">Alappuzha (About this sound pronunciation (help·info)), also known
+        as Alleppey, is the administrative headquarters of Alappuzha District of Kerala state
+        of southern India. Alappuzha is a city and a municipality in Kerala with an urban
+        population of 174,164[1] and third among the districts having highest literacy rate
+        in Kerala. In 2016, Centre for Science and Environment rated Alappuzha as the top
+        cleanest town in India followed by Mysuru and Panaji[2] Alappuzha is considered to be
+        the oldest planned city in this region and the lighthouse built on the coast of the
+        city is the first of its kind along the Laccadive Sea coast (reference encyclopaedia of
+        Kerala in Malayalam language).</string>
+    <string name="title_activity_main11">Main11Activity</string>
+</resources>
